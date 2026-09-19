@@ -1,0 +1,217 @@
+Danish Mustafa Zuberi
+Android Application Developer
++91-9754600584
+Danishzuberi6@gmail.com
+https://www.linkedin.com/in/danish-mustafa-zuberi-5511a3178/
+
+OBJECTIVE:
+          Motivated Android Application Developer with hands-on experience in developing Android applications using Kotlin
+          and Android Studio. Experienced in implementing payment and donation workflows, Bluetooth-based payment
+          terminal integration, REST API integration, transaction handling, error handling, and application performance
+          improvements. Also have experience in React.js and front-end development, with ongoing learning in DevOps
+          technologies including Linux, Shell Scripting, Python, Git, GitHub, and cloud technologies. Passionate about
+          building reliable, user-friendly applications and continuously improving technical skills.
+
+EDUCATION:
+      Bachelor of Engineering (BE) ­ Civil Engineering­All saints College of Technology, Bhopal
+
+SKILLS:
+
+ Mobile Development : Kotlin, Android Studio, Dart, Flutter
+
+ Development                 : HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
+
+ DevOps & Cloud : Linux, Shell Scripting, Python, Git, GitHub, and cloud technologies (Learning)
+
+PROFESSIONAL EXPERIENCE:                                                             Feb 2025 ­ Present
+Quasar Digital Solution Pvt Ltd, Bhopal, MP
+Android Application Developer
+
+ Currently working on Al Taqwa, a donation application for an American-based client, using Kotlin and Android
+     Studio.
+
+ Developed and integrated Bluetooth-based payment terminal functionality for secure donation transactions.
+ Implemented donation and payment workflows, including category selection, amount handling, and transaction
+
+     processing.
+ Integrated backend APIs for donation categories and payment transaction management.
+ Worked on transaction handling, receipt of generation, error handling, and application performance improvements.
+
+Orange Antilope, Bhopal, MP                                                          Apr 2024 ­ Feb 2025
+Software Engineer
+
+ Currently working on a Learning Management System (LMS) for a Mumbai-based client, utilizing React.js and
+     Bootstrap to build a responsive, user-friendly platform.
+
+ Contributed to developing interactive components and dynamic features to improve course navigation, student
+     progress tracking, and content delivery.
+
+ Collaborated with cross-functional teams to integrate backend services and ensure seamless performance and
+     scalability.
+
+ Developed React-based web applications utilizing HTML, CSS, and JavaScript to create responsive and visually
+     appealing user interfaces.
+
+ Contributed to multiple projects, improving the overall user experience through UI improvements and bug fixes.
+ Gained hands-on experience in React development and worked on personal projects to further enhance skills in
+
+     front-end technologies
+     .
+PROJECTS:
+
+Project: Al-Taqwa ­ Donation Application
+Role: Android Application Developer
+Team Size: 5 Members
+
+Developed an Android-based donation application for an American-based client, focused on providing users with a simple
+and convenient platform for making charitable donations.
+
+Designed and developed Android application screens and user interfaces using Kotlin and Android Studio, ensuring a clean,
+responsive, and user-friendly experience.
+
+Implemented donation-related features to allow users to navigate through the application and complete the donation process
+smoothly.
+
+Worked on payment and donation flow integration to provide a seamless and reliable experience for users making
+contributions through the application.
+
+Integrated backend APIs to retrieve and submit application data, ensuring smooth communication between the Android
+application and server-side services.
+
+Implemented user interactions and application logic according to the project requirements and business workflows.
+
+Tested application features, identified bugs, and implemented fixes to improve application stability, functionality, and overall
+user experience.
+
+Collaborated with team members and backend developers during development and integration activities to ensure smooth
+implementation of project requirements.
+
+Project: Click to Clock ­ Employee Attendance Application
+Role: Android Application Developer
+Team Size: 3
+
+Developed an Android-based employee attendance application used for recording and managing employee attendance.
+
+Designed and implemented application screens using Kotlin and Android Studio, focusing on creating a simple and easy-
+to-use interface for employees.
+
+Implemented the employee attendance marking functionality, enabling employees to record their attendance through the
+application.
+
+Worked on application logic related to attendance workflows and ensured that attendance actions were processed correctly.
+
+Integrated backend APIs to communicate attendance-related data between the Android application and server-side
+systems.
+
+Implemented user interactions and navigation across different sections of the application to provide a smooth user
+experience.
+
+Tested attendance-related features and application workflows to identify and resolve functional issues and improve
+application reliability.
+
+Collaborated with team members during development, testing, debugging, and integration to ensure the application met the
+required business and attendance-management requirements.
+Project: Masjid Management & Prayer Timing Application
+Role: Android Application Developer
+Team Size: 3
+
+Developed an Android-based Masjid Management application designed to provide users with essential information related
+to daily prayers, Masjid activities, and Islamic content.
+
+Designed and developed user-friendly Android interfaces for displaying daily prayer timings and other Masjid-related
+information using Kotlin and Android Studio.
+
+Implemented prayer timing sections to allow users to easily view daily Salah timings and keep track of important prayer
+schedules.
+
+Developed sections for displaying Islamic content, including Hadith and other relevant religious information, providing users
+with useful content within the application.
+
+Implemented dynamic content display to ensure that prayer timings, Hadith, and other Masjid-related information could be
+presented in an organized and accessible manner.
+
+Worked on application navigation and user interface components to provide a simple and intuitive experience for users
+accessing prayer and Masjid information.
+
+Integrated backend services/APIs where required to retrieve and display application data and ensure smooth
+communication between the Android application and server-side systems.
+
+Tested application functionality, identified bugs, and implemented fixes to improve application performance, stability, and
+overall user experience.
+
+Collaborated with team members during development, testing, debugging, and feature integration to ensure the application
+met the required project specifications.
+
+Project: Eleganza Estate Web Application
+Role: Front-End Developer
+Team Size: 5 members
+
+      Collaborated as part of a 5-person team to build a dynamic web application for Eleganza Estate, a real estate
+          company, using React to display property listings.
+
+      Developed key front-end features to dynamically show building data, including property details (e.g., pricing,
+          location, descriptions) and images based on static data.
+
+      Designed an interactive and user-friendly interface, enabling visitors to browse and filter property listings based on
+          various categories like price, location, and type.
+
+      Implemented React components to create a modular, reusable, and maintainable structure for the application,
+          ensuring a smooth and responsive user experience.
+
+      Focused on responsive design to ensure the application was optimized for desktop, tablet, and mobile devices
+          using CSS and/or Tailwind CSS.
+
+      Worked closely with back-end developers to ensure smooth integration of static data into the front-end, providing a
+          seamless experience for users browsing through properties.
+
+      Tested and optimized the application for performance and responsiveness, ensuring quick load times and smooth
+          transitions between pages using React Router and lazy loading techniques.
+
+      Participated in team collaboration and agile workflows, contributing to design discussions and code reviews to
+          maintain high development standards.
+Project: IASC Government College Web Application
+Role: Front-End Developer
+Team Size: 2 members
+
+      Designed and developed the user interface for an online Learning Management System aimed at both students
+          and teachers, ensuring a seamless, intuitive, and engaging user experience.
+
+      Developed a React and Tailwind CSS-based web application for IASC Government College, in collaboration with
+          another developer, to create an engaging, responsive, and user-friendly platform for students, faculty, and staff.
+
+      Designed and implemented interactive UI components to facilitate smooth navigation, including dynamic sections
+          like event announcements, course schedules, and faculty profiles
+
+      · Ensured responsive design using Tailwind CSS, ensuring a consistent and mobile-friendly user experience
+          across desktop, tablet, and mobile devices.
+
+      Focused on performance optimization for fast load times and efficient user interactions.
+      Worked closely with the project stakeholders to gather feedback and iteratively improve the design and functionality,
+
+          ensuring the app met the needs of all users.
+
+Project: Learning Management System (LMS)
+Role: Front-End Developer (UI Design)
+Team Size: 2 members
+
+      Collaborated with a 4-person development team to design and develop the user interface for an online Learning
+          Management System (LMS), catering to both students and teachers.
+
+      Designed and implemented interactive UI components, such as course navigation, video players, quiz interfaces,
+          and user dashboards, using HTML, CSS, JavaScript, and React.
+
+      Applied responsive design principles to ensure the platform provided seamless experience across desktop, tablet,
+          and mobile devices, making it accessible and user-friendly on all platforms.
+
+      Focused on UI/UX best practices, enhancing user engagement, ease of navigation, and overall usability to serve a
+          diverse audience of students and teachers.
+
+      Collaborated closely with back-end developers to integrate the front-end interface with server-side functionality,
+          ensuring smooth data flow and interaction between users and the platform.
+
+      Conducted usability testing and iterated on designs based on user feedback, continuously enhancing the system's
+          accessibility and performance.
+
+      Ensured cross-browser compatibility, optimizing the LMS for multiple browsers to maintain consistent user
+          experience.
+

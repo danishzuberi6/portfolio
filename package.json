@@ -1,0 +1,9 @@
+{
+  "name": "danish-mustafa-zuberi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio website for Danish Mustafa Zuberi",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

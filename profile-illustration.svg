@@ -1,0 +1,23 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="710" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EF0D1"/>
+      <stop offset="0.5" stop-color="#7AC6FF"/>
+      <stop offset="1" stop-color="#B884FF"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="260" y1="470" x2="540" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1726"/>
+      <stop offset="1" stop-color="#162E45"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="48" fill="url(#bg)"/>
+  <circle cx="400" cy="280" r="168" fill="#F5E7D8"/>
+  <path d="M272 270C272 190 328 130 400 130C472 130 528 190 528 270V300C528 308 522 316 514 320L485 336C468 344 453 349 437 349H363C347 349 332 344 315 336L286 320C278 316 272 308 272 300V270Z" fill="#1A2432"/>
+  <path d="M273 303C298 265 333 246 400 246C467 246 502 265 527 303L556 680H244L273 303Z" fill="url(#shirt)"/>
+  <path d="M326 708L269 602L237 688L232 708H326Z" fill="#0B1726"/>
+  <path d="M474 708L531 602L563 688L568 708H474Z" fill="#0B1726"/>
+  <circle cx="340" cy="283" r="13" fill="#1A2432"/>
+  <circle cx="460" cy="283" r="13" fill="#1A2432"/>
+  <path d="M355 340C375 359 425 359 445 340" stroke="#CC8B6C" stroke-width="12" stroke-linecap="round"/>
+  <text x="400" y="735" text-anchor="middle" fill="#EBF6FF" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="6">DM</text>
+</svg>
