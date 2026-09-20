@@ -1,3 +1,4 @@
+
 const revealItems = document.querySelectorAll('.reveal');
 
 const revealObserver = new IntersectionObserver(

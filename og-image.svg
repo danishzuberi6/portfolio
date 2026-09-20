@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="#07111D"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="url(#paint0_linear_1_2)" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="170" cy="178" r="78" fill="#8E7DFF" fill-opacity="0.2"/>
+  <circle cx="1020" cy="440" r="120" fill="#7EF0D1" fill-opacity="0.12"/>
+  <path d="M162 394C196 331 254 296 325 296H511C561 296 595 319 615 357L745 598H162V394Z" fill="#0E1D31" fill-opacity="0.8"/>
+  <path d="M615 357L743 598H451L401 454C388 420 404 394 442 394H561C585 394 598 383 615 357Z" fill="#101F33" fill-opacity="0.78"/>
+  <text x="121" y="190" fill="#EDF7FF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">DANISH MUSTAFA ZUBERI</text>
+  <text x="121" y="298" fill="#EDF7FF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800">Android + Web</text>
+  <text x="121" y="375" fill="#EDF7FF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800">Product Engineer</text>
+  <text x="121" y="468" fill="#A9BDD4" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">Payment flows • Business apps • responsive products</text>
+  <rect x="121" y="500" width="178" height="46" rx="23" fill="#7EF0D1"/>
+  <text x="155" y="531" fill="#07111D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Book a call</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="60" y1="60" x2="1120" y2="570" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1726"/>
+      <stop offset="1" stop-color="#111F2F"/>
+    </linearGradient>
+  </defs>
+</svg>
